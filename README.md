@@ -21,7 +21,7 @@ This consolidation challenge was supposed to help us assess our ability to solve
     Understand the notion of "separation of concerns"
 
 # The mission
-[007](https://media.giphy.com/media/nu4DN4nKos3m0/giphy.gif)
+![007](https://media.giphy.com/media/nu4DN4nKos3m0/giphy.gif)
 
 I work in the Multimedia department of one of the European Union institutions. This morning, Johnny Hasnoclew, the Project Manager, sends me on a mission: one of the in-house journalists has published a new article on the institution's website. The article in question is already integrated with an html / css / Javascript file.
 
